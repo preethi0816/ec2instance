@@ -4,6 +4,4 @@ variable "ami_id"{
 variable "instancetype"{
     type = string
 }
-variable "subnetid"{
-    type = string
-}
+
